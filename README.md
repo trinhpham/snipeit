@@ -3,7 +3,7 @@
 Clone this repo and run start.sh to migrate tables
 
 ```
-git clone https://github.com/andreicon/snipe-it snipe
+git clone https://github.com/trinhpham/snipeit.git snipe
 cd snipe
 ./start.sh
 ```
